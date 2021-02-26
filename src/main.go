@@ -7,4 +7,5 @@ func main(){
 	fmt.Printf("changes made in local")
 	fmt.Printf("Another change")
 	fmt.Printf("One more remote change")
+        fmt.Printf("Third change")`
 }
